@@ -10,6 +10,7 @@
   border: 1px solid rgb(147, 149, 151);
 }
 
+/* MEDIA QUERY size SM */
 @media screen and (min-width:576px) {
 
   .container {
@@ -17,9 +18,34 @@
   }
 }
 
+/* MEDIA QUERY size MD */
 @media screen and (min-width:768px) {
 
   .container {
     width: 750px;
+  }
+}
+
+/* MEDIA QUERY size LG */
+@media screen and (min-width:992px) {
+
+  .container {
+    width: 980px;
+  }
+}
+
+/* MEDIA QUERY size XL */
+@media screen and (min-width:1200px) {
+
+  .container {
+    width: 1190px;
+  }
+}
+
+/* MEDIA QUERY size XXL */
+@media screen and (min-width:1400px) {
+
+  .container {
+    width: 1390px;
   }
 }

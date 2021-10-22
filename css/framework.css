@@ -150,7 +150,7 @@
   justify-content: space-evenly;
 }
 
-/* MEDIA QUERI size SM */
+/* MEDIA QUERY size SM */
 @media screen and (min-width:576px) {
 
   /* COLUMNS size SM */
@@ -289,8 +289,7 @@
   }
 }
 
-
-/* MEDIA QUERI size MD */
+/* MEDIA QUERY size MD */
 @media screen and (min-width:768px) {
 
   /* COLUMNS size MD */
@@ -429,8 +428,7 @@
   }
 }
 
-
-/* MEDIA QUERI size LG */
+/* MEDIA QUERY size LG */
 @media screen and (min-width:992px) {
 
   /* COLUMNS size LG */
@@ -569,8 +567,7 @@
   }
 }
 
-
-/* MEDIA QUERI size XL */
+/* MEDIA QUERY size XL */
 @media screen and (min-width:1200px) {
 
   /* COLUMNS size XL */
@@ -709,8 +706,7 @@
   }
 }
 
-
-/* MEDIA QUERI size XXL */
+/* MEDIA QUERY size XXL */
 @media screen and (min-width:1400px) {
 
   /* COLUMNS size XXL */
